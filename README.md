@@ -8,5 +8,4 @@ She had once joked about wanting to hear the nice things people would say about 
 
 ## Credits
 
-Site powered by [Jekyll](https://jekyllrb.com)
-Theme based on [So Simple by mmistakes](https://github.com/mmistakes/so-simple-theme)
+Site powered by [Jekyll](https://jekyllrb.com) and theme based on [So Simple by mmistakes](https://github.com/mmistakes/so-simple-theme)
