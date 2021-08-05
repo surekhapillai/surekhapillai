@@ -5,3 +5,8 @@ An amazing person named Surekha Pillai (@surekha on Twitter) passed away on 11th
 She had once joked about wanting to hear the nice things people would say about her once she was gone. So here’s a small collection — maybe she’ll get to read them from wherever she is.
 
 ![](https://github.com/surekhapillai/surekhapillai/blob/main/uploads/1_N4DBkHoTccpDOnUSukCrjQ.jpeg)
+
+## Credits
+
+Site powered by [Jekyll](https://jekyllrb.com)
+Theme based on [So Simple by mmistakes](https://github.com/mmistakes/so-simple-theme)
