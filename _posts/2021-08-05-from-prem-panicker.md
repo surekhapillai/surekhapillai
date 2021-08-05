@@ -22,29 +22,17 @@ Do you remember the one you stopped at, as you flipped through those pages? The 
 Today — less than 24 hours after you arbitrarily decided to disappear from our midst — I remember that day, that time, that poem. A particularly apposite bit:
 
 > When great souls die,
->   
 > the air around us becomes
-> 
 > light, rare, sterile.
-> 
 > We breathe, briefly.
-> 
 > Our eyes, briefly,
-> 
 > see with
-> 
 > a hurtful clarity.
-> 
 > Our memory, suddenly sharpened,
-> 
 > examines,
-> 
 > gnaws on kind words
-> 
 > unsaid,
-> 
 > promised walks
-> 
 > never taken.
 
 That is so many of us today. I was trawling through Twitter, specifically the hashtag #Surekha, and reading the many tear-drenched tributes coming your way from the hundreds whose lives you touched — and seeing, “with a hurtful clarity”, that we never realised who you truly were till it was way too late. 
@@ -53,27 +41,17 @@ And because that is how the mind works, pinballing between memory and the immedi
 
 There is much I want to say — have wanted to say all these years, if only I could have found adequate words. What was that you said to me once? “Instead of wasting your time writing about stupid cricket…”? I write about stupid games, S, because I lack the skill to write about the truly meaningful. The skill — and the words. So I’m going to cheat, and let Angelou speak for me yet again:
 
-And when great souls die,
-
-after a period peace blooms,
-
-slowly and always
-
-irregularly. Spaces fill
-
-with a kind of
-
-soothing electric vibration.
-
-Our senses, restored, never
-
-to be the same, whisper to us.
-
-They existed. They existed.
-
-We can be. Be and be
-
-better. For they existed.
+> And when great souls die,
+> after a period peace blooms,
+> slowly and always
+> irregularly. Spaces fill
+> with a kind of
+> soothing electric vibration.
+> Our senses, restored, never
+> to be the same, whisper to us.
+> They existed. They existed.
+> We can be. Be and be
+> better. For they existed.
 
 That’s it. You existed. And we, all of us who you touched with your kindness, your understated grace, your unstinted affection, we can be, and we can be better. Because you existed.
 
