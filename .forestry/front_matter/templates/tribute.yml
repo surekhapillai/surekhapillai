@@ -16,6 +16,13 @@ fields:
   label: Summary
   description: The summary that shows up on the homepage. Defaults to first paragraph
     of the post.
+- name: permalink
+  type: text
+  config:
+    required: true
+  label: Permalink
+  description: 'The URL for this tribute, usually <code>/&lt;name&gt;</code>. Example:
+    `/jacintha`'
 pages:
 - _posts/2021-08-05-from-alpana.md
 - _posts/2021-08-05-from-anabohs-hr.md
