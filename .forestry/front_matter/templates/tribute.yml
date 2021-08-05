@@ -5,7 +5,7 @@ fields:
 - type: text
   name: title
   label: Author
-- name: excerpt
+- name: summary
   type: textarea
   default: ''
   config:
@@ -13,7 +13,9 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Excerpt
+  label: Summary
+  description: The summary that shows up on the homepage. Defaults to first paragraph
+    of the post.
 pages:
 - _posts/2021-08-05-from-alpana.md
 - _posts/2021-08-05-from-anabohs-hr.md
