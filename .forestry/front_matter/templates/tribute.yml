@@ -1,0 +1,18 @@
+---
+label: Tribute
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Author
+- name: excerpt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Excerpt
+pages:
+- _posts/from-visha-suchde.md
