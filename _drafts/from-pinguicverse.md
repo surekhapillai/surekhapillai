@@ -15,4 +15,4 @@ Over pictures of flowers, trees, nosepins, food, she taught me to be the best ve
 
 Right now my heart is full. But I hope I will be able to carry forward your teachings and make you proud. Meanwhile, here are some foraged flowers for the person who loved simple and beautiful things. I love you, Chechi. I know you love me too. RIP.
 
-![](/uploads/trees-for-surekha-by-mamta-1.jpg)
+![](/uploads/trees-for-surekha-by-mamta-1.jpg)![](/uploads/trees-for-surekha-by-mamta-2.jpg)![](/uploads/trees-for-surekha-by-mamta-3.jpg)![](/uploads/trees-for-surekha-by-mamta-4.jpg)![](/uploads/trees-for-surekha-by-mamta-5.jpg)
