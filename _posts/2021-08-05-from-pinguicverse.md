@@ -1,5 +1,6 @@
 ---
 title: From @PinguicVerse
+permalink: /pinguicverse
 summary: ""
 ---
 

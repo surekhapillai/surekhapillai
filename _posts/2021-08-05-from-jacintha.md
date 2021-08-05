@@ -1,5 +1,7 @@
 ---
 title: "From Jacintha"
+permalink: /jacintha
+summary: ""
 ---
 
 The day I entered the twitter world, I got scared. I felt it was such an angry space.the one person who made me stay there was Surekha.

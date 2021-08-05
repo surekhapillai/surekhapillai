@@ -1,8 +1,12 @@
 ---
 title: From Prem Panicker
-summary: ''
+permalink: /prem-panicker
+summary: 'It’s odd, the kind of things the mind snags on in its wanderings through memory, but… I always wanted to ask you this: Why is it that in the eight-odd years of knowing each other, you never ever called me by my name?
+
+Why is it always “Mr P”?'
 
 ---
+
 My dear S…
 
 It’s odd, the kind of things the mind snags on in its wanderings through memory, but… I always wanted to ask you this: Why is it that in the eight-odd years of knowing each other, you never ever called me by my name?
@@ -35,7 +39,7 @@ Today — less than 24 hours after you arbitrarily decided to disappear from our
 > promised walks
 > never taken.
 
-That is so many of us today. I was trawling through Twitter, specifically the hashtag #Surekha, and reading the many tear-drenched tributes coming your way from the hundreds whose lives you touched — and seeing, “with a hurtful clarity”, that we never realised who you truly were till it was way too late. 
+That is so many of us today. I was trawling through Twitter, specifically the hashtag #Surekha, and reading the many tear-drenched tributes coming your way from the hundreds whose lives you touched — and seeing, “with a hurtful clarity”, that we never realised who you truly were till it was way too late.
 
 And because that is how the mind works, pinballing between memory and the immediate moment, my memory examines those promises left unfulfilled. We were supposed to do a cook-off, remember? Your mutton curry against my Kerala-style fish curry? We would have done it that trip, if only we could have agreed on an impartial judge — and now it is too late.
 

@@ -1,5 +1,6 @@
 ---
 title: From Unmana
+permalink: /unmana
 summary: ""
 ---
 

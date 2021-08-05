@@ -1,5 +1,6 @@
 ---
 title: From Shruthi Malur
+permalink: /shruthi-malur
 summary: ""
 ---
 

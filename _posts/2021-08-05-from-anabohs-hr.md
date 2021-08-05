@@ -1,5 +1,6 @@
 ---
 title: From Anabohs HR
+permalink: /anabohs-hr
 summary: ""
 ---
 

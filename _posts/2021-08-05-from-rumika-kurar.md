@@ -1,5 +1,6 @@
 ---
 title: "From Rumika Kurar"
+permalink: /rumika-kurar
 ---
 
 For Surekha: She was one of the warmest people on Twitter, I stumbled upon her through Mint journalists that I follow and instantly felt a connection. She had such a quirky, intimate, candid, and almost poetic gaze that reading her posts always made me smile.

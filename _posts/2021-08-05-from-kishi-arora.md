@@ -1,11 +1,13 @@
 ---
 title: From Kishi Arora
-summary: "I have always said I am a fortunate girl because I have equivalents of blessing
+permalink: /kishi-arora
+summary:
+  "I have always said I am a fortunate girl because I have equivalents of blessing
   as close friends. Today it’s one less I count on my fingertip. And I am mad. My
   heart feels bad-very bad. I hurt that she didn’t get to see the last message that
   said I love you-S; that always got me a \U0001F618back. \U0001F494"
-
 ---
+
 This is S - my darling S❤️
 
 Surekha as in ‘The SUREKHA PILLAI’ from Twitter. ️

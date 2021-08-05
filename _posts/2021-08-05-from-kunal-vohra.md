@@ -1,5 +1,6 @@
 ---
 title: "From Kunal Vohra"
+permalink: /kunal-vohra
 summary: '"Do you always only begin what you know you can finish?" That''s what you asked in one of our early exchanges, when we first got to know each other. It''s been twenty-one years since Piano Man J but what you said then has stayed with me, popping up every now and then in my head, because, just as you did then, it makes me evaluate the reasons I give myself for my choices and ask if I’m being honest, at least to myself.'
 ---
 

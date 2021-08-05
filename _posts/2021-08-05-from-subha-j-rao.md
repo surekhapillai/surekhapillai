@@ -1,5 +1,6 @@
 ---
 title: "From Subha J Rao"
+permalink: /subha-j-rao
 ---
 
 Surekha was that rare voice on Twitter who knew how to make a point and put forth an opinion without hurting anyone else. She took you along, never making you feel like a lesser person.

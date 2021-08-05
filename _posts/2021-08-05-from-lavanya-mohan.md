@@ -1,5 +1,6 @@
 ---
 title: "From Lavanya Mohan"
+permalink: /lavanya-mohan
 ---
 
 Where does one even begin when it comes to talking about Surekha? These are not words I thought I'd be typing or even thinking of. I've known Surekha since 2009. A happy face, kind words, a sunflower that stood tall amongst a growing pack of weeds. My interactions with her, right from when I was a teenager, have only been positive, if not bursting with energy.

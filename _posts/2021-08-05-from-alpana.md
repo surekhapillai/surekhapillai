@@ -1,5 +1,6 @@
 ---
 title: From Alpana
+permalink: /alpana
 summary: ""
 ---
 
