@@ -2,8 +2,8 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Tributes for Surekha Pillai"
 description: ""
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/surekhapillai" # the subpath of your site, e.g. "/blog"
+url: "https://surekhapillai.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
