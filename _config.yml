@@ -71,6 +71,12 @@ defaults:
     values:
       layout: post
       share: false
+  - scope:
+      path: "_drafts"
+      type: posts
+    values:
+      layout: post
+      share: false
 
 # Site Author
 author:
