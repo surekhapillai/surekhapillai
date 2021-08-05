@@ -1,8 +1,8 @@
 ---
 title: From @PinguicVerse
-excerpt: ''
-
+summary: ""
 ---
+
 Losing @surekha has been the hardest part of 2021 for me. She is my ally, advocate, mentor, friend, and sister. I have never told her any of this. I wish I did.
 
 My initial interaction with her, like most of us, was when I was in distress, and she came in with her Surekha hugs. When I found out I am autistic, and told her, she did not feel sorry for me. She celebrated each person for who they are.

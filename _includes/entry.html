@@ -24,7 +24,9 @@
   </header>
   {% unless page.show_excerpts == false %}
     <div class="entry-excerpt p-summary">
-      {% if entry.excerpt %}
+      {% if entry.summary and entry.summary != '' %}
+        {{ entry.summary | markdownify }}
+      {% else %}
         {{ entry.excerpt | markdownify }}
       {% endif %}
       <a href="{{ entry.url | relative_url }}" rel="bookmark">Read <span class="link-arrow">&rarr;</span></a>
