@@ -1,17 +1,22 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: index.md
+  label: Home Page
+  match: "**/*"
+- type: document
+  path: _data/tweets.yml
+  label: Tweets
+  match: "**/*"
 - type: jekyll-posts
   label: Tributes
   create: all
   templates:
   - tribute
-- type: jekyll-pages
-  label: Pages
-  create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
