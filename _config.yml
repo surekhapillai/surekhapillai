@@ -1,7 +1,7 @@
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Tributes for Surekha Pillai"
-description: ""
+description: "Surekha had once joked about wanting to hear the nice things people would say about her once she was gone. So here’s a small collection — maybe she’ll get to read them from wherever she is."
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: "https://surekhapillai.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
