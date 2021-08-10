@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /gallery
+permalink: /gallery/
 title: Gallery
 ---
 
