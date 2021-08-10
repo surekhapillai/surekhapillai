@@ -66,6 +66,10 @@ plugins:
 defaults:
   # Posts defaults
   - scope:
+      path: ""
+    values:
+      image: /uploads/surekha-avatar.jpg
+  - scope:
       path: "_posts"
       type: posts
     values:
