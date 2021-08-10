@@ -3,9 +3,9 @@
 - title: Home
   url: /
 - title: About
-  url: /about/
+  url: /about
 - title: Gallery
-  url: /gallery/
+  url: /gallery
 # - title: Categories
 #   url: /categories/
 # - title: Tags
