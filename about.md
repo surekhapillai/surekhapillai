@@ -13,3 +13,7 @@ Please send to this id: [surekha-pillai-tributes@googlegroups.com](mailto:surekh
 Website currently maintained by [Mamta](https://twitter.com/silverlightgal), [Karthik](https://twitter.com/karthikb351), and [Senthil](https://twitter.com/St_Hill).
 
 ---
+
+![center-aligned-image](/uploads/1_N4DBkHoTccpDOnUSukCrjQ.jpeg){: .align-center}
+
+---
