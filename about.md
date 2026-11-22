@@ -14,6 +14,6 @@ Website currently maintained by [Mamta](https://twitter.com/silverlightgal), [Ka
 
 ---
 
-![center-aligned-image](/uploads/1_N4DBkHoTccpDOnUSukCrjQ.jpeg){: .align-center}
+![center-aligned-image]({{ '/uploads/1_N4DBkHoTccpDOnUSukCrjQ.jpeg' | relative_url }}){: .align-center}
 
 ---
