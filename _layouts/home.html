@@ -42,7 +42,7 @@ layout: page
         for (let index = 0; index < window.tweets.length; index++) {
           const tweet = window.tweets[index];
           let id = tweet.split('/').pop();
-          await twttr.widgets.createTweet(
+          twttr.widgets.createTweet(
             id,
             document.getElementById(`tweet-${index + 1}`),
             {
